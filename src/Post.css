@@ -1,0 +1,12 @@
+.post-container img{
+  width: 100%;
+  height: auto;
+}
+
+.post-container
+.post-content
+img {
+  border-radius: 50%;
+  width: 30px;
+  height: auto;
+}
